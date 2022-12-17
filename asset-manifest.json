@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.88ff4980.css",
-    "main.js": "/myportfolio/static/js/main.7df8586e.js",
+    "main.css": "/myportfolio/static/css/main.ee7dafed.css",
+    "main.js": "/myportfolio/static/js/main.8ddf6df6.js",
     "static/media/work.webp": "/myportfolio/static/media/work.3d1741d5f7054eb1db55.webp",
-    "static/media/my_prof.webp": "/myportfolio/static/media/my_prof.0fc78b4f5f2e6eef9603.webp",
+    "static/media/my_prof.png": "/myportfolio/static/media/my_prof.b16b876744fb20eb5fdc.png",
     "static/media/scrum_bg.svg": "/myportfolio/static/media/scrum_bg.105641be0dd387b21b72.svg",
     "static/media/vue_skill-bg.svg": "/myportfolio/static/media/vue_skill-bg.8a70f1b1f4c98d104430.svg",
     "static/media/ract_skill_bg.svg": "/myportfolio/static/media/ract_skill_bg.d104b8db773dc15ad746.svg",
     "static/media/about_bg.svg": "/myportfolio/static/media/about_bg.6e76dfab235cad45828e.svg",
     "index.html": "/myportfolio/index.html",
     "static/media/home_bg.svg": "/myportfolio/static/media/home_bg.9c8eee52ebee42805e87.svg",
-    "main.88ff4980.css.map": "/myportfolio/static/css/main.88ff4980.css.map",
-    "main.7df8586e.js.map": "/myportfolio/static/js/main.7df8586e.js.map"
+    "main.ee7dafed.css.map": "/myportfolio/static/css/main.ee7dafed.css.map",
+    "main.8ddf6df6.js.map": "/myportfolio/static/js/main.8ddf6df6.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ff4980.css",
-    "static/js/main.7df8586e.js"
+    "static/css/main.ee7dafed.css",
+    "static/js/main.8ddf6df6.js"
   ]
 }
