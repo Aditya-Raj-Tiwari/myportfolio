@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.93eddefb.css",
-    "main.js": "/myportfolio/static/js/main.6e9d0b83.js",
+    "main.css": "/myportfolio/static/css/main.f4ccafb1.css",
+    "main.js": "/myportfolio/static/js/main.144b99af.js",
     "static/media/work.webp": "/myportfolio/static/media/work.3d1741d5f7054eb1db55.webp",
+    "static/media/tum_bubble.webp": "/myportfolio/static/media/tum_bubble.539bfec5287cfcf53e39.webp",
     "static/media/morgenland_ref.png": "/myportfolio/static/media/morgenland_ref.a8f57683e7b7683b6847.png",
     "static/media/change_pic_profile.png": "/myportfolio/static/media/change_pic_profile.92cded20d4b090c4399b.png",
     "static/media/my_prof.png": "/myportfolio/static/media/my_prof.b16b876744fb20eb5fdc.png",
@@ -13,11 +14,11 @@
     "static/media/about_bg.svg": "/myportfolio/static/media/about_bg.6e76dfab235cad45828e.svg",
     "index.html": "/myportfolio/index.html",
     "static/media/home_bg.svg": "/myportfolio/static/media/home_bg.9c8eee52ebee42805e87.svg",
-    "main.93eddefb.css.map": "/myportfolio/static/css/main.93eddefb.css.map",
-    "main.6e9d0b83.js.map": "/myportfolio/static/js/main.6e9d0b83.js.map"
+    "main.f4ccafb1.css.map": "/myportfolio/static/css/main.f4ccafb1.css.map",
+    "main.144b99af.js.map": "/myportfolio/static/js/main.144b99af.js.map"
   },
   "entrypoints": [
-    "static/css/main.93eddefb.css",
-    "static/js/main.6e9d0b83.js"
+    "static/css/main.f4ccafb1.css",
+    "static/js/main.144b99af.js"
   ]
 }
